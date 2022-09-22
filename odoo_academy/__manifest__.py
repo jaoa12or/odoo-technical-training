@@ -7,7 +7,7 @@
         Academy Moule to manage Training:
         - Courses
         - Sessions
-        - Attendees
+        - Attendee
     """,
     'author': 'Rude Coding',
     'website': 'https://www.odoo.com',
