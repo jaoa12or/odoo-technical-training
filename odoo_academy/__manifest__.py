@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 {
     'name': 'Odoo Academy',
     'sumary': """Academy app to manage Training""",
@@ -7,7 +5,7 @@
         Academy Moule to manage Training:
         - Courses
         - Sessions
-        - Attendee
+        - Attendees
     """,
     'author': 'Rude Coding',
     'website': 'https://www.odoo.com',
